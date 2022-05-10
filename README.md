@@ -35,5 +35,6 @@
 ## Funcionamento
 * Back-END
 <p>Para o back-end utilizamos, o axios juntamente com o expressa para fazer a ligaçao com o banco de dados mongo Db, para assim podermos guardar todas as informaçoes do nosso crud..</p>
+
 * Front-END
 <p>No front-end utilizamos o framework React. Para trabalharmos com as rotas utilizamos a biblioteca react-router-dom, sendo assim possivel criarmos as rotas de link com essa biblioteca podendo inserir o link de acesso do painel de usuario diretamente na rota correta</p>
