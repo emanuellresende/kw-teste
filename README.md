@@ -31,3 +31,9 @@
 
 ## Inicio do WebSite
 <p>Assim que ele rodar você estará na pagina inicial ao qual somente poderá cadastrar usuario, quando voce cadastrar um usuario voce recebera um link de acesso unico daquele usuario para o acesso ao website. Quando voce copiar o link e digitalo no navegador, você sera direcionado a central do usuairo, onde, ele poderá cadastrar novos usuarios, editar usuario, deletar usuario. Sempre que essa central de usuario for acessada sera mudado o link de acesso unico, sendo assim você sempre recebera o link para acessar o novo link de acesso do usuario.</p>
+
+## Funcionamento
+* Back-END
+<p>Para o back-end utilizamos, o axios juntamente com o expressa para fazer a ligaçao com o banco de dados mongo Db, para assim podermos guardar todas as informaçoes do nosso crud..</p>
+* Front-END
+<p>No front-end utilizamos o framework React. Para trabalharmos com as rotas utilizamos a biblioteca react-router-dom, sendo assim possivel criarmos as rotas de link com essa biblioteca podendo inserir o link de acesso do painel de usuario diretamente na rota correta</p>
