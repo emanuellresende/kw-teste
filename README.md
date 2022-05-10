@@ -1,5 +1,8 @@
-# Teste para a empresa Wk Sistemas
-## Para a implementação deste teste foi solicitado os seguintes requesitos:
+<h1 align="center">Teste para a Empresa Wk Sistemas</h1>
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 ### Requesitos
 
 * RF001 - Permitir acesso ao sistema através de link de uso único.
