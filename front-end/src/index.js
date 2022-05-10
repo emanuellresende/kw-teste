@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 import RegisterUserScreen from './pages/RegisterUserScreen';
 import './createGlobalStyles/index.css'
@@ -9,10 +9,8 @@ import {
   BrowserRouter,
   Routes,
   Route,
-  Link,
+
 } from "react-router-dom";
-import { v4 as uuid } from "uuid";
-const accessToken = uuid();
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(

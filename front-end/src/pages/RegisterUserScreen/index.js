@@ -29,7 +29,7 @@ export default function HomeScreen() {
         alert("Erro na criação de Usuário");
       }
       else {
-        alert("Seu Token de acesso unico é: http://localhost:3001/users/" + username + '/' + data.data.data.accessToken);
+        alert("Seu Token de acesso unico é: http://localhost:3001/users/" + email + '/' + data.data.data.accessToken);
       }
     }
 
