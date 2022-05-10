@@ -16,3 +16,18 @@
 * RN004 - O cadastro do usuário deve conter um email único e o nome completo com pelo menos duas palavras.
 * RN005 - Só é permitido editar usuário através do link de uso único.
 * RN006 - Só é permitido excluir usuário através do link de uso único.
+
+
+## Como utilizar o back-end
+* Primeiramente abra a pasta back-end, logo em seguida rode o comando: yarn install / npm install
+* Assim que instalar rode o comando yarn dev/ npm dev
+* Assim o back-end ja estará rodando, confira se ele está rodando na porta 3000
+
+## Como utilizar o front-end
+* Assim que rodar o back-end, va para a pasta front-end e rode o seguinte comando:
+* yarn install / npm install
+* Assim que instalar ja rode o comando:
+* yarn start / npm start
+
+## Inicio do WebSite
+<p>Assim que ele rodar você estará na pagina inicial ao qual somente poderá cadastrar usuario, quando voce cadastrar um usuario voce recebera um link de acesso unico daquele usuario para o acesso ao website. Quando voce copiar o link e digitalo no navegador, você sera direcionado a central do usuairo, onde, ele poderá cadastrar novos usuarios, editar usuario, deletar usuario. Sempre que essa central de usuario for acessada sera mudado o link de acesso unico, sendo assim você sempre recebera o link para acessar o novo link de acesso do usuario.</p>
