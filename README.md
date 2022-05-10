@@ -38,3 +38,12 @@
 
 * Front-END
 <p>No front-end utilizamos o framework React. Para trabalharmos com as rotas utilizamos a biblioteca react-router-dom, sendo assim possivel criarmos as rotas de link com essa biblioteca podendo inserir o link de acesso do painel de usuario diretamente na rota correta</p>
+
+![home](https://user-images.githubusercontent.com/46730164/167523990-303049c6-6ed8-4421-8d6a-4ee6525ceaaa.png)
+
+![hom1](https://user-images.githubusercontent.com/46730164/167523965-2ffb0fd4-74e6-44eb-8efb-04d010b33865.png)
+
+![hom2](https://user-images.githubusercontent.com/46730164/167523978-50071bd2-496b-4ddf-bd7f-bcf8f3245804.png)
+
+![user](https://user-images.githubusercontent.com/46730164/167524004-90bfc508-1e3e-487d-a1f4-f750c56a277e.png)
+
